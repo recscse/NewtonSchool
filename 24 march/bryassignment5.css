@@ -1,0 +1,21 @@
+* {box-sizing: border-box}
+input[type=text], input[type=password]{w
+#header {
+   
+    z-index: 1;
+    height: 40px;
+    width: 98%;
+    background-color: #668284;
+    margin-bottom: 10px;
+}
+#name
+{
+	padding: 10px;
+	margin-left:10px;
+}
+button {
+  background-color: #4CAF50;
+  }
+.cancelbtn {
+  
+  background-color: #f44336;
