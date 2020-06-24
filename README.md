@@ -1,1 +1,1 @@
-# newtonschoo
+# newtonschool
